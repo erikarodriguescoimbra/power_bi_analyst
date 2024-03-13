@@ -23,3 +23,6 @@ Publique o seu relatório no Power BI Service
 Caso você tenha familiaridade fique livre para utilizar outros artifícios nos botões e outros 
 
 Submenta seu projeto através do link no github 
+
+link do projeto : https://app.powerbi.com/groups/me/reports/559b1e6c-f6ac-4220-a378-6380e8cc43a5/ReportSection4d1ad56dbbd45a395162?ctid=659ce2b8-0714-4198-8c38-dc9b60aabb57&experience=power-bi
+![image](https://github.com/erikarodriguescoimbra/power_bi_analyst/assets/126118474/2344250b-f949-40e7-a42c-9cfa40a35367)
